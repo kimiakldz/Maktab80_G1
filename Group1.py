@@ -3,11 +3,13 @@ print("This is Fatemeh")
 print("This is Hadis Jebalbarezi.")
 
 
-def sum(x, y):
+def sum(x):
+    y = 5
     return x + y
 
 def multiply(x, y):
     return x * y
     
 print("Hello from the other side")
+
 
