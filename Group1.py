@@ -8,4 +8,6 @@ def sum(x, y):
 
 def multiply(x, y):
     return x * y
+    
+print("Hello from the other side")
 
