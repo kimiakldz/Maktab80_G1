@@ -8,9 +8,4 @@ def sum(x):
     return x + y
 
 def multiply(x, y):
-    return x * y
-    
-print("Hello from the other side")
-
-
-print('hellllllllllo')
+    return x 
